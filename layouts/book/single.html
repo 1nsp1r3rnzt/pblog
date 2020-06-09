@@ -1,0 +1,103 @@
+{{- define "main" -}}
+{{ if .Params.toc }}
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
+      </ul>
+      {{ .TableOfContents }}
+      {{ partial "docs_toc_foot" . }}
+    </div>
+    <main class="col-12 col-md-0 col-xl-10 py-md-3 pl-md-5 docs-content" role="main">
+      {{ end }}
+      <article class="article">
+        {{ partial "page_header" . }}
+        <!-- Default for authors -->
+        {{ $role := "Author" }}
+        {{if .Params.header.role}}
+        {{$role = .Params.header.role }}
+        {{end}}
+        {{ $image_alt := "Book-cover" }}
+        {{if .Params.header.image_alt}}
+        {{$image_alt = .Params.header.image_alt }}
+        {{end}}
+        {{ $book_author := "" }}
+        {{if .Params.header.author}}
+        {{$book_author = .Params.header.author }}
+        {{end}}
+        {{ $book_description := "" }}
+        {{if .Params.header.description}}
+        {{$book_description = .Params.header.description }}
+        {{end}}
+        {{ $ratings := "" }}
+        {{ $rating_img := "" }}
+        {{if eq .Params.rating 0 }}
+        {{$rating_img = "/assets/images/ratings/00.png"}}
+        {{else if eq .Params.rating 0.5}}
+        {{$rating_img = "/assets/images/ratings/05.png"}}
+        {{else if or (eq .Params.rating 1) (eq .Params.rating 1.0)}}
+        {{$rating_img = "/assets/images/ratings/10.png"}}
+        {{else if eq .Params.rating 1.5}}
+        {{$rating_img = "/assets/images/ratings/15.png"}}
+        {{else if or (eq .Params.rating 2) (eq .Params.rating 2.0)}}
+        {{$rating_img = "/assets/images/ratings/20.png"}}
+        {{else if eq .Params.rating 2.5}}
+        {{$rating_img = "/assets/images/ratings/25.png"}}
+        {{else if or (eq .Params.rating 3) (eq .Params.rating 3.0)}}
+        {{$rating_img = "/assets/images/ratings/30.png"}}
+        {{else if eq .Params.rating 3.5}}
+        {{$rating_img = "/assets/images/ratings/35.png"}}
+        {{else if or (eq .Params.rating 4) (eq .Params.rating 4.0)}}
+        {{$rating_img = "/assets/images/ratings/40.png"}}
+        {{else if eq .Params.rating 4.5}}
+        {{$rating_img = "/assets/images/ratings/45.png"}}
+        {{else if or (eq .Params.rating 5.0) (eq .Params.rating 5)}}
+        {{$rating_img = "/assets/images/ratings/50.png"}}
+        {{end}}
+        <div class="article-container">
+          <div class="article-style">
+            <div class="book-container">
+              <div class="left">
+                <img class="book-image" src="{{ .Params.header.image}}" alt="{{$image_alt}}">
+              </div>
+              <div class="right book-description">
+                <span class="book-role">
+                  {{$role}}:
+                </span>
+                <span class="book-author">
+                  {{$book_author}}
+                  <br><br>
+                </span>
+                <!-- description -->
+                <span class="book-description">
+                  {{$book_description}}
+                  <br><br>
+                </span>
+                <div class="rating-container">
+                  {{if .Params.rating}}
+                  <div class="rating_child">
+                    <img src="{{$rating_img}}" alt="rating {{.Params.rating}}">
+                    {{end}}
+                  </div>
+                  <div class="right">
+                    {{if .Params.amazon_link }}
+                    <button class="buy-style" type="button"> <a href="{{.Params.amazon_link}}"> Buy Now</a>
+                    </button>
+                    {{end}}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {{ .Content }}
+        </div>
+        {{ partial "page_footer" . }}
+  </div>
+  </article>
+  {{ if .Params.toc }}
+  </main>
+</div>
+</div>
+{{ end }}
+{{- end -}}

@@ -1,0 +1,58 @@
+ 
+.buy-style{
+	background:navy;
+	text-decoration: underline;
+	color:white;
+	border: none;
+}
+
+.buy-style a{
+	color: white;
+}
+
+
+.book-container{
+    border: 1px solid navy;
+	padding: 2px;
+	display: flex;
+	}
+
+
+.book-image{
+ 
+}
+
+.left{
+	flex:1;
+	margin-right: 20px;
+	width: 50%;
+    float: left;
+    padding-left: 20px;
+}
+
+
+.right{
+ width: 70%;
+  float: left;
+  padding: 20px;
+}
+
+.book-description{
+	margin:3px;
+}
+
+
+.rating-container
+{
+	padding: 2px;
+	display: flex;
+
+}
+
+
+.rating-child{
+	flex:1;
+	margin-right: 20px;
+	width: 50%;
+	padding-bottom: 10px;
+}

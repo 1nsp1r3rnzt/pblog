@@ -1,0 +1,70 @@
+---
+
+title: Learning in Public
+header:
+  teaser: /assets/images/uploads/2019/05/public.jpg
+  overlay_image: /assets/images/uploads/2019/05/public.jpg
+  overlay_filter: rgba(255, 0, 0, 0.3)
+image:
+  path: /assets/images/uploads/2018/11/books-mentor.jpg
+categories:
+  - learning
+excerpt: "Learning is public is one of the crucial advice I have read..."
+date: 2019-05-28T21:12:27+00:00
+url: /learning-public/
+classes: wide
+---
+
+Learning is a long process . Recently, i read a post by  Shawn Wang about [learning in public](https://www.swyx.io/writing/learn-in-public/). He argued about documenting your learning in public. Its one of the crucial advice I have read. 
+
+> You already know that you will never be done learning. But most people "learn in private", and lurk. ~ Shawn Wang
+
+I have been guilty of learning in private. From Last November, I have experimenting with maintaining a [Commonplace book](https://en.wikipedia.org/wiki/Commonplace_book). Its a private instance of [DokuWiki](https://www.dokuwiki.org/dokuwiki). I have been maintaining all my notes on things learned, journal, Moocs, and code snippets in it. Further, I use [pinboard.in](https://pinboard.in) to sort out all my bookmarks. Both of them are private. 
+
+Reading the post, I had a lot of thoughts about learning. Primarily, I realized that whatever I learn is still minuscule compared to the vastness of the universe. There will never be a day, when I can confidently say that I have mastered it all. Secondly, It reminded me of having a open mindset. I believe in strong opinions, weakly held. I am always striving to change my view if someone can prove me wrong. 
+
+> (Avoid the walled gardens like Slack and Discourse, they're not public). ~ Shawn Wang
+
+I am in several Slack communities about Programming. Its true that the knowledge gets lost behind the closed sources. Its simply unsearchable and unreachable. Its same for other chat applications. Stackoverflow is useful only because of its openness.
+
+
+> People think you suck? Good. You agree. Ask them to explain, in detail, why you suck. You want to just feel good or you want to be good? No objections, no hurt feelings. Then go away and prove them wrong.- Shawn Wang
+
+Constructive criticism is what has worked for me so far. Its vital for pushing out of the comfort zone. Every one starts as an amateur. Its similar to a baby crawling, rolling over, sitting before learning to stand and walk. Yes, you are free to rate 1 star on any of my Apps. I know that if I stick long enough, I will figure out things eventually.
+
+
+> Guess what? It's not about reaching as many people as possible with your content. If you can do that, great, remember me when you're famous. But chances are that by far the biggest beneficiary of you trying to help past you is future you. If others benefit, that's icing. 
+
+I loved this. The goal is to be better than myself. Its good if my words help someone on the other side of world. However, I write to log how I solved my problems. Its a reminder to stick to the same.
+
+> 
+> Don't judge your results by "claps" or retweets or stars or upvotes - just talk to yourself from 3 months ago. - Shawn Wang
+
+Once I push the work out to public, its reputation is not in my control.  It reminded me a quote about work by Bertrand Russell. 
+
+> “One of the symptoms of an approaching nervous breakdown is the belief that one’s work is terribly important.” 
+― Bertrand Russell, The Conquest of Happiness
+
+Some might find your work useful while others might give an existential crisis. The goal is not to get attached with the current level of competence.
+
+> Oh you think you're done? Don't stop there. Enjoyed a coding video? Reach out to the speaker/instructor and thank them, and ask questions. 
+> 
+
+Finally, I should be expressing more gratitude by leaving a comment on the helpful posts which helped me countless times.
+
+![](/assets/images/uploads/2019/05/amateur.jpg)
+<br>
+Photo by Comfreak at [Pixabay](https://pixabay.com/images/id-2380009/)
+
+## Takeaways
+
+
+I will be
+ - Learning in public.
+   - Keep documenting my learning.
+ - Making the DokuWiki and bookmarks public.
+ - Leaving more comments on helpful posts.
+ - Asking more questions.
+    - Be curious like a child. 
+ - Taking criticism as a part of feedback.
+ 
