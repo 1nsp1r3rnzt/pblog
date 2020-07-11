@@ -26,12 +26,20 @@ I found Google sheets to be excellent for this purpose.
         - show `total metric completed`  
       - A `weekly review dashboard` which shows the lagging habits.
 
+## Demo
+![](/assets/images/uploads/experiments/habit_tracker.png)
+
 
 ## How to measure progress
+ - A weekly review which groups the habits according to their success rate.
+ - 
+
+![](/assets/images/uploads/experiments/habit_review.png)
 
 
+## Download
+You can download the [Google sheets](https://docs.google.com/spreadsheets/d/1DuxnWDAiUxOK9TJ-Xhq-eliH8CmlMgxQH8ojuAGHhj8/edit?usp=sharing) and clear the cells for your personal use.
 
-![](/assets/images/uploads/experiments/habit_tracker.png)
 
 
 
