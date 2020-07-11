@@ -11,15 +11,16 @@
 }
 
 
-.book-container{
+.review-container{
     border: 1px solid navy;
-	padding: 2px;
+	padding: 12px;
 	display: flex;
 	}
 
 
-.book-image{
- 
+.review-image{
+margin: 0 !important;
+padding: 20px!important; 
 }
 
 .left{
@@ -37,8 +38,8 @@
   padding: 20px;
 }
 
-.book-description{
-	margin:3px;
+.review-description{
+margin: 0 2px 0 2px;
 }
 
 

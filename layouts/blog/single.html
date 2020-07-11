@@ -1,0 +1,123 @@
+{{- define "main" -}}
+{{ $title := "Author" }}
+{{if .Params.header.title}}
+{{$title = .Params.header.title }}
+{{end}}
+{{ $image_alt := "Book-cover" }}
+{{if .Params.header.image_alt}}
+{{$image_alt = .Params.header.image_alt }}
+{{end}}
+{{ $text := "" }}
+{{if .Params.header.text}}
+{{$text = .Params.header.text }}
+{{end}}
+{{ $review_description := "" }}
+{{if .Params.header.description}}
+{{$review_description = .Params.header.description }}
+{{end}}
+{{ $additional_text := "" }}
+{{if .Params.header.additional_text}}
+{{$additional_text = .Params.header.additional_text }}
+{{end}}
+{{ $link_title := "" }}
+{{if .Params.header.link_title}}
+{{$link_title = .Params.header.link_title }}
+{{end}}
+{{ $link_text := "" }}
+{{if .Params.header.link_text}}
+{{$link_text = .Params.header.link_text }}
+{{end}}
+{{ $ratings := "" }}
+{{ $rating_img := "" }}
+{{if eq .Params.rating 0 }}
+{{$rating_img = "/assets/images/ratings/00.png"}}
+{{else if eq .Params.rating 0.5}}
+{{$rating_img = "/assets/images/ratings/05.png"}}
+{{else if or (eq .Params.rating 1) (eq .Params.rating 1.0)}}
+{{$rating_img = "/assets/images/ratings/10.png"}}
+{{else if eq .Params.rating 1.5}}
+{{$rating_img = "/assets/images/ratings/15.png"}}
+{{else if or (eq .Params.rating 2) (eq .Params.rating 2.0)}}
+{{$rating_img = "/assets/images/ratings/20.png"}}
+{{else if eq .Params.rating 2.5}}
+{{$rating_img = "/assets/images/ratings/25.png"}}
+{{else if or (eq .Params.rating 3) (eq .Params.rating 3.0)}}
+{{$rating_img = "/assets/images/ratings/30.png"}}
+{{else if eq .Params.rating 3.5}}
+{{$rating_img = "/assets/images/ratings/35.png"}}
+{{else if or (eq .Params.rating 4) (eq .Params.rating 4.0)}}
+{{$rating_img = "/assets/images/ratings/40.png"}}
+{{else if eq .Params.rating 4.5}}
+{{$rating_img = "/assets/images/ratings/45.png"}}
+{{else if or (eq .Params.rating 5.0) (eq .Params.rating 5)}}
+{{$rating_img = "/assets/images/ratings/50.png"}}
+{{end}}
+{{ if .Params.toc }}
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
+      </ul>
+      {{ .TableOfContents }}
+      {{ partial "docs_toc_foot" . }}
+    </div>
+    <main class="col-12 col-md-0 col-xl-10 py-md-3 pl-md-5 docs-content" title="main">
+      {{ end }}
+      <article class="article">
+        {{ partial "page_header" . }}
+        <div class="article-container">
+          <div class="article-style">
+            {{ .Content }}
+             {{ if .Params.header.image}}
+
+            <div class="review-container">
+              {{ if .Params.header.image}}
+              <div class="left">
+                <img class="review-image" src="{{ .Params.header.image}}" alt="{{$image_alt}}">
+              </div>
+              <div class="right ">
+                {{end}}
+                <div class="review-description">
+                  <span class="review-title">
+                    {{$title}}:
+                  </span>
+                  <span class="review-author">
+                    {{$text}}
+                    <br><br>
+                  </span>
+                  <!-- description -->
+                  <span class="review-description">
+                    {{$review_description}}
+                    <br><br>
+                  </span>
+                  <div class="rating-container">
+                    {{if .Params.rating}}
+                    <div class="rating_child">
+                      <img src="{{$rating_img}}" class="review-image" alt="rating {{.Params.rating}}">
+                      {{end}}
+                    </div>
+                    <div class="right">
+                      {{if .Params.header.link_text }}
+                      <button class="buy-style" type="button"> <a href="{{$link_text}}"> {{$link_title}}</a>
+                      </button>
+                      {{end}}
+                    </div>
+                  </div>
+                </div>
+                {{ if .Params.header.image}}
+              </div>
+              {{end}}
+            </div>
+
+            {{end}}
+          </div>
+          {{ partial "page_footer" . }}
+        </div>
+      </article>
+      {{ if .Params.toc }}
+    </main>
+  </div>
+</div>
+{{ end }}
+{{- end -}}

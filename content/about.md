@@ -1,9 +1,11 @@
 ---
 url: /about/
 title: "About me"
+share: false
 ---
 
-Hi, I'm Ranjit Singh. I blog about programming and musing in Android Software development. Ocassionally, I post book summaries.
+Hi, I'm Ranjit Singh. I am a life-long learner and write blog about Software Development.
+
 
 ## Interested in
  - Computer Science

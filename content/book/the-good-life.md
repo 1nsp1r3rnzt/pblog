@@ -1,6 +1,6 @@
 ---
 title: The Good life Summary
-summary:  The ultimate book on personal organization
+summary:  Few heuristics mixed of Stoicism, Cognitive Psychology and experience.
 tags:
  - productivity
 date: "2020-05-05"
@@ -8,12 +8,12 @@ type: "book"
 # Optional external URL for project (replaces project detail page).
 header:
   author: "Rolf Dobelli" 
-  description: "Since antiquity, people have been asking themselves what it means to live a good life. How should I live? What constitutes a good life? What's the role of fate? What's the role of money? Is leading a good life a question of mindset, or is it more about reaching your goals? Is it better to actively seek happiness or to avoid unhappiness? "
+  description: "Rolf Dobelli shares 52 heuristic for life.  "
   image: "/assets/images/books/the-art-of-good-life"
   recommends: ""
 url: /notes/good-life/
 toc: true
-rating: 3.5
+rating: 3
 profile: false
 amazon_link: ""
 ---
@@ -29,12 +29,7 @@ The Good life is a very light book about few mental models and heuristic to live
 
 
 ## Favourite Quote
-> The more complicated the world becomes, the less important your starting point is.
-
 > Once you hit thirty, life’s too short for bad books.
-
-> If you don’t deal with reality, then reality will deal with you.
-> 
 
 ## Summary
 ## 1. Mental Accounting

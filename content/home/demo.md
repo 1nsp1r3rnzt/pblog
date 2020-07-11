@@ -51,7 +51,7 @@ subtitle = " I’m Ranjit Saini.![Admin](assets/images/uploads/2018/01/admin.png
 +++
 <br>
 
-My mission is 3-pronged, to master `Software Development`, `Self-Mastery` and to contribute to `Open-Source`.
+My mission is 3-pronged, to master `Software Development`, `Self-Mastery` and to contribute to the `Open-Source`.
 
-Occasionally, I share notes from books I've read.
+Occasionally, I read and share notes from books I've read.
 
