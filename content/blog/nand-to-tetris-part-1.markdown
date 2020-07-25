@@ -484,19 +484,77 @@ Similarly, Ram64, Ram512 are constructed.
 
 ## Week 4
 Machine language is low level language.
+  - It is the interface between hardware and software.
 
 ### Universality
 Alan Turing theorized a machine with notion of what can be computed.
 `Universal Turing machine` - can act like any other Turing machine given the `correct program`.
 
+  - Mnemonics
+      + Symbolic machine language.
+      + Example. `Add R1` where `Add` is mnemonic
+
+### Memory Hierarchy
+  - Accessing big memory for saving each computation is time consuming.
+      + 1. Long Address
+      + 2. time consuming due to data transfer from CPU to memory and vice versa.
+
+> The solution is Memory hierarchy which has faster memory such as registers near the CPU and stores the computation results there,
+
+![](/assets/images/uploads/2020/07/memory-hierarchy.png)
+
+### Flow Control
+  - conditional jump
+      + The jump is based on the condition.
+      + For eg. Jump if R1 is not equal to 0
+  - Unconditional Jump.
+
+### Hack Computer: Hardware
+
+- ![](/assets/images/uploads/2020/07/Hack-cpu.png)
 
 
+### Screen
+  - Screen is assigned a specific area in the memory called `screen memory map`.
+  - ![](/assets/images/uploads/2020/07/screen-map.png)
+  - Physical screen is continuously refreshed many times to update the content.
 
-## Week 5
+#### How does the program show output
+  - ![](/assets/images/uploads/2020/07/screen-memory-map.png)
+  - The software driver for the screen updates the screen memory map area.
 
 
+### Keyboard
+  - Pressed key's scan code travels to `keyboard memory map`.
+      + It is a 16 bit register.
 
 
+### NOP Slide attack
+  - The program if not terminated can run instructions put by a hacker.
+
+#### How to terminate properly.
+  - Computers never stand still.
+      + So, to end a program, put an infinite loop at the end of the program.
+
+
+### Built-in symbols
+  - We use symbols in machine language to make it easier to read.
+
+ 
+## Week 5: Computer Architecture
+
+### Data flow
+  
+  - 3 types of information passes through the system.
+    - 1. Data
+    - 2. Address
+    - 3. Control     
+
+### Fetch Execute cycle
+  - There are two kinds of architecture.
+  - Harvard architecture has program and data separately.
+      + So, we can fetch and execute in the same cycle.
+      + 
 
 ## week 6
 
