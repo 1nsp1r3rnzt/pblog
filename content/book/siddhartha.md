@@ -1,7 +1,7 @@
 ---
 title: Siddhartha summary
 tags:
- - productivity
+ - fiction
 date: "2020-07-15"
 type: "book"
 header:

@@ -516,7 +516,7 @@ Alan Turing theorized a machine with notion of what can be computed.
 
 ### Screen
   - Screen is assigned a specific area in the memory called `screen memory map`.
-  - ![](/assets/images/uploads/2020/07/screen-map.png)
+  - ![](/assest/images/uploads/2020/07/screen-map.png)
   - Physical screen is continuously refreshed many times to update the content.
 
 #### How does the program show output

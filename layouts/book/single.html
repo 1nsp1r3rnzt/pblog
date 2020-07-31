@@ -22,14 +22,17 @@
         {{if .Params.header.image_alt}}
         {{$image_alt = .Params.header.image_alt }}
         {{end}}
+        
         {{ $book_author := "" }}
         {{if .Params.header.author}}
         {{$book_author = .Params.header.author }}
         {{end}}
+        
         {{ $book_description := "" }}
         {{if .Params.header.description}}
         {{$book_description = .Params.header.description }}
         {{end}}
+        
         {{ $ratings := "" }}
         {{ $rating_img := "" }}
         {{if eq .Params.rating 0 }}
@@ -55,6 +58,18 @@
         {{else if or (eq .Params.rating 5.0) (eq .Params.rating 5)}}
         {{$rating_img = "/assets/images/ratings/50.png"}}
         {{end}}
+        
+
+        {{ $download_title := "" }}
+        {{if .Params.header.download_title}}
+        {{$download_title = .Params.header.download_title }}
+        {{end}}
+
+        {{ $download_link := "" }}
+        {{if .Params.header.download_link}}
+        {{$download_link = .Params.header.download_link }}
+        {{end}}
+        
         <div class="article-container">
           <div class="article-style">
             <div class="review-container">
@@ -82,6 +97,7 @@
                     <img src="{{$rating_img}}" alt="rating {{.Params.rating}}">
                     {{end}}
                   </div>
+                 
                   <div class="right">
                     {{if .Params.amazon_link }}
                     <button class="buy-style" type="button"> <a href="{{.Params.amazon_link}}"> Buy Now</a>
@@ -92,6 +108,14 @@
 
                     {{end}}
 
+                    {{if .Params.header.download_link }}
+                    <button class="buy-style" type="button"> <a href="{{$download_link}}"> {{$download_title}}</a>
+
+
+                    </button>
+                    <br>
+
+                    {{end}}
 
                     <br>
 
