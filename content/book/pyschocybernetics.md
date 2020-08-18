@@ -3,7 +3,7 @@ title: "Psycho-Cybernetics Summary"
 date: "2020-07-11"
 header:
   role: "Author"
-  image: /assets/images/books/tfs.jpg
+  image: /assets/images/books/psychocybernetics.png
   image_alt: "logo"
   author: "Maxwell Maltz"
   description: "A book about the concept of Self-Image and techniques such as visualization, mental rehearsal, relaxation to improve it."
