@@ -44,4 +44,4 @@ I’m now focusing on validating the idea further, co-creating with early users,
 Thanks to everyone who offered feedback, especially my classmates and Florence, who made the event run smoothly.
 
 ### Final Thoughts
-If you can align your passion, the problem you want to solve, and a solution that truly helps people—you’ve already won.
+If you can align your passion, the problem you want to solve, and a solution that truly helps people you’ve already won.
