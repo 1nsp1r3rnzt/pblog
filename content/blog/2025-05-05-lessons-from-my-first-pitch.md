@@ -1,4 +1,4 @@
-```yaml
+---
 id: 2510
 title: Lessons from My First Pitch Competition – DiverseCity Mini-Dragons’ Den
 date: 2025-05-05T10:00:00+00:00
@@ -10,8 +10,8 @@ oc_label: "Reflection"
 categories:
   - Entrepreneurship
   - Reflections
-toc: true
-```
+toc: false
+---
 
 
 On May 3rd, I had the opportunity to pitch **FlourishLifeTech** at the DiverseCity Mini-Dragons’ Den, alongside 20 other inspiring entrepreneurs. Our company helps personal growth professionals digitize their tools and offerings and this was our first time pitching in a competition.
