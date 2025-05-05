@@ -23,7 +23,7 @@ On May 3rd, I had the opportunity to pitch **FlourishLifeTech** at the DiverseCi
 I managed my time reasonably well and stayed composed through the Q&A. I showed up with clarity, and that helped me stay grounded and present.
 
 ### What I Could Improve
-There’s still work to do—especially on the UX of our product demo and the visual presentation of our slides. I learned how crucial early feedback is (thank you everyone!) and how much polish can impact how your vision lands.
+There’s still work to do especially on the UX of our product demo and the visual presentation of our slides. I learned how crucial early feedback is (thank you everyone!) and how much polish can impact how your vision lands.
 
 ### Challenges and Emotions
 Condensing a complex idea into 5 minutes was no small feat. I walked away with a mix of feeling proud that I still showed up fully and disappointment that I missed taking feedback on the slides. The feedback I received from other participants helped turn that disappointment into motivation.
