@@ -133,13 +133,13 @@ Each language has 3 parts to achieve this
       + non-confusing as the operator is the first element in the combination.
 
 
-### Naming and the Environment 
+### Naming and the Environment
 The environment plays a significant role as it allows to store the symbol and related instructions.
 
   - 1. Global
   - 2. Local
 
-###  Evaluating Combinations 
+### Evaluating Combinations
 
   - Combination evaluation is recursive in nature.
   
@@ -227,7 +227,7 @@ Here, normal order would not try to evaluate p in the beginning and would fully 
 
  
 
-### Conditional Expressions and Predicates 
+### Conditional Expressions and Predicates
 
 Similar to mathematical `case analysis`
 
@@ -325,7 +325,7 @@ The iterative state has
   - an optional end test to terminate the procedure.
   - can be resumed as the state is saved in the variables.
 
-### Tree Recursion 
+### Tree Recursion
   - useful for hierarchical data.
 
 ```

@@ -17,7 +17,7 @@ baseurl = "/"
 copyright = ""
 
 ############################
-## Advanced options below ##
+## Advanced options below
 ############################
 
 # Name of Academic theme folder in `themes/`.
@@ -25,6 +25,7 @@ theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -37,6 +38,11 @@ paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+
+
+[pagination]
+  pagerSize = 10
 
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]
