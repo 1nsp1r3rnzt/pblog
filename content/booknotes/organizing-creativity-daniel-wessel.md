@@ -17,6 +17,7 @@ tags:
 url: /notes/organize-your-creativity/
 type: book
 profile: false
+summary: "How to organize your creativity"
 ---
 
 ## Notes
@@ -115,7 +116,7 @@ in a domain , you cannot realize everything.**
 
 Realize core project --> then only pursue central projects.
 
-###  Time management
+### Time management
 - Resist internal and micro external interruptions.
 - Imagine your work as a confidential conversation where you can allow any interruptions.
 
@@ -297,7 +298,7 @@ prior owner.
 - Set it up parallel to your day-job first:
 - Earn your living: creative people did “mundane” jobs to
 secure their existence. 
-###  Self Discipline
+### Self Discipline
 cost time and attention > Money.  
 
 ### Digital Lifeboat

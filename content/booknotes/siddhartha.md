@@ -13,6 +13,8 @@ header:
 url: /notes/siddhartha/
 toc: true
 rating: 4.5
+summary: "Hesse synthesizes disparate philosophies--Eastern religions, Jungian archetypes, Western individualism--into a unique vision of life as expressed through one man's search for true meaning."
+
 ---
 
 

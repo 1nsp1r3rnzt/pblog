@@ -13,6 +13,7 @@ type: "book"
 url: "/notes/psycho-cybernetics"
 amazon_link: ""
 profile: false
+summary: "A book about the concept of Self-Image and techniques such as visualization, mental rehearsal, relaxation to improve it."
 ---
 
 

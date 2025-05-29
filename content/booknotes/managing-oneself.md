@@ -238,7 +238,7 @@ Also, 40-50 years of same work is too long for most people expect great artists 
 
 > “People who manage the second half will always be a minority.”  
 
-### 3 Choices/Answers   
+### 3 Choices/Answers
   - To have a second half of life, start creating long before one enters it.
   - The best book for planning second life.
     - Bob Buford.

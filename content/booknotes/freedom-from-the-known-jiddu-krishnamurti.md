@@ -15,6 +15,7 @@ tags:
   - philosophy
 type: "book"
 url: /notes/freedom-known"/
+summary: "A guide by Jiddu Krishnamurti encouraging liberation from societal conditioning to achieve true personal freedom and awareness."
 ---
 ## My Notes
 

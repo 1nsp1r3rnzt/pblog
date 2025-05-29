@@ -11,7 +11,7 @@ header:
   author: "Cal NewPort"
   description: "Deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way."
 rating: 4.0
-
+type: "book"
 toc: true
 url: /notes/deep-work/
 ---
@@ -86,7 +86,7 @@ Non-cognitively demanding, logistical-style tasks, often performed while distrac
 ▪ Also consider the frustratingly common practice of forwarding an e-mail to one or more colleagues, labeled with a short open-ended interrogative, such as: “Thoughts". 
 </span>
 
-###  Busyness as Proxy for Productivity
+### Busyness as Proxy for Productivity
 
 ▪ Knowledge workers are tending toward increasingly visible busyness because they lack a better way to demonstrate their value.
 
@@ -213,9 +213,9 @@ Then avoid it altogether outside these times.
 
 ▪ I suggest that you keep a notepad near your computer at work. On this pad, record the next time you’re allowed to use the Internet. Until you arrive at that time, absolutely no network connectivity is allowed—no matter how tempting.
 
-####  #2: Regardless of how you schedule your Internet blocks, you must keep the time outside these blocks absolutely free from Internet use.
+#### #2: Regardless of how you schedule your Internet blocks, you must keep the time outside these blocks absolutely free from Internet use.
 
-####   #3: Scheduling Internet use at home as well as at work can further improve your concentration training.
+#### #3: Scheduling Internet use at home as well as at work can further improve your concentration training.
 
 ▪ To simplify matters, when scheduling Internet use after work, you can allow time-sensitive communication into your offline blocks (e.g., texting with a friend to agree on where you’ll meet for dinner), as well as time-sensitive information retrieval (e.g., looking up the location of the restaurant on your phone). 
 Outside of these exceptions, however, when in an offline block, put your phone away.
@@ -226,17 +226,17 @@ Outside of these exceptions, however, when in an offline block, put your phone a
 ▪ The goal of productive meditation is to take a period in which you’re occupied physically but not mentally—walking, jogging, driving, showering—and focus your attention on a single well-defined professional problem.
 
 
-####  Suggestion #1: Be Wary of Distractions and Looping
+#### Suggestion #1: Be Wary of Distractions and Looping
 
 ▪ When you notice your attention slipping away from the problem at hand, gently remind yourself that you can return to that thought later, then redirect your attention back (similar to: mindfulness)
 
-####  Suggestion #2: Structure Your Deep Thinking
+#### Suggestion #2: Structure Your Deep Thinking
 
 ▪ The first thing White emphasizes is that professional memory athletes never attempt rote memorization.
 
 ▪ The key to this strategy is not the specifics, but instead the motivating idea that your ability to concentrate is only as strong as your commitment to train it
 
-##  Rule #3: Quit Social Media
+## Rule #3: Quit Social Media
 
 ▪ Another commenter cited making friends in a writing forum. I don’t doubt the existence of these friends, but we can assume that these friendships are lightweight—given that they’re based on sending short messages back and forth over a computer network.
 
@@ -271,7 +271,7 @@ Don’t mention online that you’ll be signing off: Just stop using them, cold 
 ▪ You “like” my status update and I’ll “like” yours. This agreement gives everyone a simulacrum of importance without requiring much effort in return.
 Note: `Reciprocity Principle`
 
-###  Don’t Use the Internet to Entertain Yourself
+### Don’t Use the Internet to Entertain Yourself
 
 ▪ Accordingly to Bennett, the typical man should instead use the time after work hours as an aristocrat would: to perform rigorous self-improvement—a task that, according to Bennett, involves, primarily, reading great literature and poetry.
 
@@ -314,7 +314,7 @@ Note: `Reciprocity Principle`
   -  It’s not a question or proposal that interests you.    
   - Nothing really good would happen if you did respond and nothing really bad would happen if you didn’t.
 
-##   Conclusion
+## Conclusion
 
 ▪ The one trait that differentiated [Gates from Allen] was `focus`. Allen’s mind would flit between many ideas and passions, but Gates was a serial obsessor.
 

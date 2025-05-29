@@ -16,6 +16,7 @@ tags:
 url: /notes/clean-code/
 
 rating: 5
+summary: "A practical guide by Robert C. Martin on writing readable, maintainable, and efficient code through proven best practices and principles."
 ---
 
 Clean Code is one of the top 5 recommended reading for Software Developers.

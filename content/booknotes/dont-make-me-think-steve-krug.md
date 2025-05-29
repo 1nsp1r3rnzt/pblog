@@ -15,7 +15,8 @@ toc: true
 tags:
   - design
 rating: 4
-type: booknotes
+type: book
+summary: "Steve Krug’s classic guide on web and mobile usability, emphasizing intuitive design that requires minimal user effort to navigate and understand."
 ---
 
 

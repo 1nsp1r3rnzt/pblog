@@ -15,7 +15,9 @@ tags:
 type: book
 url: /notes/little-book-stoicism/
 amazon_link: ""
+summary: It distills key Stoic principles into actionable steps suitable for everyday life challenges.
 ---
+
 ## Notes
 If this book is your first introduction to Stoicism, then you should avoid it. It is better to read "A Guide to the Good Life: The Ancient Art of Stoic Joy"
  
@@ -40,7 +42,7 @@ If this book is your first introduction to Stoicism, then you should avoid it. I
 
 > we’re responsible for our own flourishing. We’re responsible for not letting our happiness depend on external circumstances
 
-## Promise #2: Emotional Resilience 
+## Promise #2: Emotional Resilience
   - A man who has gone through countless misfortunes “acquires a skin calloused by suffering.”
   - Unfortunately, according to the Stoics, most of us are enslaved to passions—strong negative emotions such as irrational fear, grief, or anger. This is why so many of us are miserable, we’re far away from being a tower of strength, we’re far away from being at good terms with our ideal self. Our passions cause us to act far beneath of what we’re capable of. 
 
@@ -131,7 +133,7 @@ If this book is your first introduction to Stoicism, then you should avoid it. I
 #### Focus on the process
 The stoics focused on the process in the present moment (living with arete) than future outcome (a happy life).
 
-###   The victim mentality
+### The victim mentality
   - Avoid the victim mentality
     - Blaming external circumstances for our unhappiness.
 - Make happiness depends as little as possible on outside circumstances. 
@@ -247,7 +249,7 @@ They act as a reminder and aid in everyday life.
   ## P23: How to deal with Grief?
 > “It’s better to conquer grief than to deceive it.” - Seneca 
   - As they say, if you find yourself in a hole, stop digging. Face the emotion, and get out of the hole. At some point the negative feeling will feed from itself, like a vicious cycle. You feel bad about still being grief-stricken, this will make you feel worse, and so on.
-####  What to do when other grieve?
+#### What to do when other grieve?
   - Epictetus says we should be careful not to “catch” the grief of others. We should sympathize with the person and if appropriate even accompany their moaning with our own. In doing so, be careful not to moan inwardly.
     - It’s as they tell you each time you board a plane, “Put your oxygen mask on first.” As you cannot help anyone when you’re dead, and you cannot help others when you’re as grief-stricken as they are.
   ## P24: Choose courage and Calm over Anger
@@ -328,7 +330,7 @@ They don't do those things on purpose.
 ## P41: Find your own Faults
   - Study your own mistakes. There are plenty of them.
   - Don't write people for erring. We all have bad moments.
-## P42: Forgive and Love Those Who Stumble 
+## P42: Forgive and Love Those Who Stumble
 Stoics viewed stumbling people more like a child with less wisdom than malicious people. They fail to recognize that what they are doing isn't even in their own best interest. They are blind to see. Its like an illness.
   - Marcus makes a neat comparison: He says wishing for the unknowing man not to do wrong is like wishing for a fig tree not to produce figs, babies not to cry, and horses not to neigh. These are inevitable things. They just happen by nature. 
 ## P43: Pity, Rather than Blame the wrongdoer

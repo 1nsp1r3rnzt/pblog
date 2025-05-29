@@ -14,6 +14,7 @@ type: "book"
 url: "/notes/thinking-fast-slow"
 amazon_link: ""
 profile: false
+summary: "An exploration of the two systems of thought—fast, intuitive thinking and slow, deliberate reasoning—and how they shape our judgments and decisions."
 ---
 
 
@@ -126,7 +127,7 @@ Flow requires
   - Deliberate control of attention,
 
 
-# System 2 and business  
+# System 2 and business
 
 System 1 has more influence on behavior when System 2 is busy or depleted,
 

@@ -10,7 +10,7 @@ subtitle = "Notes from Book I read."
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "booknotes"
+  page_type = "book"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

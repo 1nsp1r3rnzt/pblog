@@ -4,16 +4,18 @@ tags:
  - teachyourselfcs
 date: "2020-07-22"
 type: "book"
+summary: It's a foundational computer science book that teaches core programming concepts using Scheme.
 header:
- role: "Authors"
- author: "Harold Abelson and Gerald Jay Sussman with Julie Sussman"
- description: "."
- image: "/assets/images/books/sicp.jpeg"
- image_alt: "SICP book cover"
+  role: "Authors"
+  author: "Harold Abelson and Gerald Jay Sussman with Julie Sussman"
+  description: "."
+  image: "/assets/images/books/sicp.jpeg"
+  image_alt: "SICP book cover"
 url: /notes/sicp/
 toc: true
 rating: 4.5
 ---
+
 
 The sicp covers the root of programming languages and the ways to handle complexity of programs. The book is more inclined towards mathematical side of programming.
 
