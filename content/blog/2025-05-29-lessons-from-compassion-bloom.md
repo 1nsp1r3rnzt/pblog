@@ -20,7 +20,7 @@ Over the past year, I had the privilege of facilitating **CompassionBloom**, a c
 
 ## From Student to Facilitator
 
-Before stepping into this role, I completed a year-long course in compassionate communication. Afterward, I began facilitating alongside my co-facilitator, Lisa. We started with three facilitators, and as time passed, the group organically shifted to just the two of us continuing the journey. This transition became a valuable part of our learning, testing our commitment, adaptability, and mutual support.
+Before stepping into this role, I completed a year-long course in compassionate communication. Afterward, I began facilitating alongside my co-facilitator, Lisa. We started with three facilitators, and as time passed, the group shifted to just the two of us continuing the journey. This transition became a valuable part of our learning, testing our commitment, adaptability, and mutual support.
 
 ## What Worked Well
 
@@ -57,8 +57,8 @@ This next phase for me is about connecting the dots and finding ways to serve fr
 
 ## Heartfelt Gratitude
 
-Deep gratitude to **Thom Bond** for his compassionate presence and the visionary foundation he has built through this work. I’m also thankful for the **CGN dedicated team**, whose care, coordination, and support made this transformative experience possible behind the scenes.
+Deep gratitude to **Thom Bond** for his compassionate presence and the visionary foundation he has built through this work. I’m also thankful for the **GCN dedicated team**, whose care, coordination, and support made this transformative experience possible behind the scenes.
 
-Sharing the facilitation journey with **Lisa** has been a gift. Thanks for your trust, patience, and commitment which were vital to sustaining the space we created. I'm also grateful for **Rozalind**, whose warm presence and soulful flute music brought beauty and calm to our sessions!
+Sharing the facilitation journey with **Lisa** has been a gift. Thanks for your trust, patience, and commitment which were vital to sustaining the space we created. I'm also grateful for **Rozalind**, whose warm presence and soulful flute music brought beauty and calm to our initial sessions!
 
 Finally, heartfelt thanks to the **CompassionBloom group participants**. Your presence, honesty, and willingness to explore compassion together have touched me deeply. Walking this path with you has been an honor I’ll carry forward.

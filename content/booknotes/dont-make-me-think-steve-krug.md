@@ -15,7 +15,7 @@ toc: true
 tags:
   - design
 rating: 4
-type: book
+type: booknotes
 ---
 
 
