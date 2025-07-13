@@ -25,14 +25,17 @@ subtitle = "Notes from Book I read."
      name = "All"
      tag = "*"
 [[content.filter_button]]
+     name = "Programming/Software"
+     tag = "programming"
+[[content.filter_button]]
      name = "Philosophy"
      tag = "philosophy"
 [[content.filter_button]]
-     name = "Productivity"
-     tag = "productivity"
+     name = "Psychology"
+     tag = "psychology"
 [[content.filter_button]]
-     name = "Programming/Software"
-     tag = "programming"
+     name = "Relationships"
+     tag = "relationships"
 [[content.filter_button]]
      name = "Productivity"
      tag = "productivity"

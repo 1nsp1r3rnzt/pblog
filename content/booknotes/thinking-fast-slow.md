@@ -9,6 +9,7 @@ header:
   author: "Daniel Kahneman"
   description: " Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives"
 toc: true
+tag: Psychology
 rating: 4
 type: "book"
 url: "/notes/thinking-fast-slow"
