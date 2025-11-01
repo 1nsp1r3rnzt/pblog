@@ -25,10 +25,7 @@ Then came the challenge of collaboration. I couldn’t connect with someone suit
 
 
 ## 💡 The Journey — Challenges and Learning
-
-That’s when I realized: entrepreneurship isn’t about competing — it’s about *becoming.* It’s like walking through caves of doubt, carrying a small torch of purpose, hoping your light might help someone else see their way too.
-
-One breakthrough moment came when I realized that entrepreneurship is like navigating through a cave of doubt — the deeper you go, the more you discover your ability to bring real value to the world. That shift in perspective changed everything.
+One breakthrough moment came when I realized that entrepreneurship isn’t about competing — it’s about *becoming.* It’s like walking through caves of doubt, carrying a small torch of purpose, hoping your light might help someone else see their way too. Also, the deeper you go, the more you discover your ability to bring real value to the world. That shift in perspective changed everything.
 
 I remember one night feeling self-doubt and listening to one of my favorite poems: *“If you are going to try, go all the way; otherwise, don’t even start.”*
 
