@@ -4,19 +4,18 @@ categories:
   - teachyourselfcs
 date: 2020-06-10
 url: /htcsd/
-tags:
 rating: 3.5
 toc: true
 header:
   title: "Offered by"
-  text: "The University of British Columbia via edX "
+  text: "The University of British Columbia via edX"
   description: "A great course for introduction to Systematic programming design but taught in a pedantic manner."
   link_title: "Course Page"
   link_text: "https://www.edx.org/course/how-to-code-simple-data"
 tags:
- - mooc
- - ossu
- - review
+  - mooc
+  - ossu
+  - re
 ---
 
 How to code simple data is based on the "How to Design Programs" book which is inspired by "Structure and Interpretation of Computer Programs".
@@ -93,7 +92,7 @@ The course introduces recipes for data definition, functions and arbitrary data 
   - Atomic Distinct.
     - Enumeration
 
-#### Example: Data definition 
+#### Example: Data definition
 * Data definition for Enumeration
   * An example for Traffic lights.  
 ```
@@ -122,7 +121,7 @@ It is divided into two phases, each of which has sub-parts:
   - Identify big-bang options (events, handlers)
 
 
-### 4.2 Build the actual program  
+### 4.2 Build the actual program
   - Program Constants first.
   - Data definitions using HtDD
   - Functions using HtDF
@@ -152,7 +151,7 @@ Use this picture to
   - Introduce new constants and then we change functions and tests.
 
 
-## 5. How to design 
+## 5. How to design
 
 ### compound data
   - Compound data contains two values (First and Last name)

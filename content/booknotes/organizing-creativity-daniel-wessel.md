@@ -3,13 +3,12 @@ title: "Organizing your creativity Summary"
 excerpt: "How to generate, capture and collect ideas to realize creative projects."
 header:
   teaser: /assets/images/notes/organizing-creativity.jpg
+  role: "Author"
+  image: /assets/images/books/organizing-creativity.jpg
+  image_alt: "Organize creativity cover"
+  author: "Daniel Wessel"
+  description: "A book about organizing your creative projects, ideas and life."
 date: 2018-11-22
-header:
-   role: "Author"
-   image: /assets/images/books/organizing-creativity.jpg
-   image_alt: "Organize creativity cover"
-   author: "Daniel Wessel"
-   description: "A book about organizing your creative projects, ideas and life."
 toc: true
 rating: 3
 tags:
@@ -19,6 +18,7 @@ type: book
 profile: false
 summary: "How to organize your creativity"
 ---
+
 
 ## Notes
 The book is free to read at [organizingcreativity.com](http://www.organizingcreativity.com/book-as-pdf/)

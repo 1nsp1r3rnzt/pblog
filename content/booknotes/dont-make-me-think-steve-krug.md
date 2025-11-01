@@ -1,16 +1,14 @@
 ---
 title: "Don't make me think: A Common Sense Approach to Web and Mobile Usability"
-excerpt: "A Common Sense Approach to Web Usability  Summary"
+excerpt: "A Common Sense Approach to Web Usability Summary"
 header:
   teaser: /assets/images/notes/dont-make-me-think.jpg
-date: 2018-05-22
-header:
   role: "Author"
   image: /assets/images/books/dont-make-me-think.jpg
   image_alt: "logo"
   author: "Robert Cecil Martin"
-  description: " If you design, write, program, own, or manage Web sites, you must read this book.
-"
+  description: "If you design, write, program, own, or manage Web sites, you must read this book."
+date: 2018-05-22
 toc: true
 tags:
   - design
@@ -18,6 +16,7 @@ rating: 4
 type: book
 summary: "Steve Krug’s classic guide on web and mobile usability, emphasizing intuitive design that requires minimal user effort to navigate and understand."
 ---
+
 
 
 ## Summary

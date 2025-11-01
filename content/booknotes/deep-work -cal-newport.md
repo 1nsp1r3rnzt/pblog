@@ -1,10 +1,9 @@
 ---
 title: "Deep Work Summary"
 excerpt: "If you master deep work, you'll achieve extraordinary results."
-header:
-  teaser: assets/images/notes/deep-work-cal-newport.jpg
 date: 2018-10-17
 header:
+  teaser: assets/images/notes/deep-work-cal-newport.jpg
   role: "Author"
   image: /assets/images/books/deep-work-cal-newport.jpg
   image_alt: "logo"
