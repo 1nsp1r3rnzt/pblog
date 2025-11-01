@@ -45,7 +45,7 @@ I chose to fully commit to the journey, and I’m glad I persevered. Feedback fr
 
 ## 🚀 The Tradeshow Moment
 
-![image of me speaking on stage at the DiverseCity tradeshow](fair-speaking.jpg)
+![image of me speaking on stage at the DiverseCity tradeshow](/assets/images/uploads/fair-speaking.jpg)
 
 By the time the tradeshow arrived, twenty-four weeks had passed. I was ready to share what I’d built. Standing there before 150 people, cue cards in hand, I took a deep breath. I looked down at my notes, then looked up and chose to set them aside. In that moment, I stopped presenting and started connecting. I spoke from my heart.
 

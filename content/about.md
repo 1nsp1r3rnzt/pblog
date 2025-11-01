@@ -4,19 +4,31 @@ title: "About me"
 share: false
 ---
 
-Hi, I'm Ranjit Singh. I am a life-long learner and write blog about Software Development.
+
+Hi, I'm **Ranjit Saini**. I am a life-long learner and write blog about Software Development, book notes, experiments and my learnings while navigating the beautiful world.
 
 
-## Interested in
- - Computer Science
- - Open-Source
- - Decentralization
- - Life-long learning.
- - Reading.
- - Digital wellbeing.
- - Philosophy.
- - Systems thinking
+## 💼 Career and Work
+
+* **Technology**
+* **Programming**
+* **Open Source**
 
 
-Reach out to connect@ranjitsaini.com to connect.
+## 🚌 Hobbies and Passions
 
+* **Creating Systems**
+* **Reading**
+* **Photography**
+* **Intellectual Discussions**
+* **Healthy Living**
+* **Personal Development**
+* **Human Behavior**
+* **Critical Thinking**
+* **Deeper Communication**
+* **Environment**
+* **Consciousness**
+* **Spiral Dynamics**
+
+
+Reach out to connect@ranjitsaini.net to connect
